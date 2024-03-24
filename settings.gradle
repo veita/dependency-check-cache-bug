@@ -1,0 +1,5 @@
+
+rootProject.name = 'dependency-check-cache-bug'
+
+include 'sub-a'
+include 'sub-b'
